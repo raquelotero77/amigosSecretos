@@ -17,12 +17,12 @@ let amigo = [];
     amigo.push(nombreAmigo);
     inputAmigo.value= "";
     inputAmigo.focus();
-    renderizarAmigos() //sin esto no aparecen por pantalla los nombres de los amigos.
+    actualizarListaAmigos() //sin esto no aparecen por pantalla los nombres de los amigos.
    //console.log(amigo);
 
   }
 
-  function renderizarAmigos() {
+  function actualizarListaAmigos() {
   let listaAmigos = document.getElementById("listaAmigos");
   listaAmigos.innerHTML = "";
 
