@@ -4,7 +4,7 @@
 Juego del amigo Secreto con Alura Latam
 ## Indice
 
-*[Funcionalidades del Proyecto](#funcionalidades-del-proyecto)
+*[Funcionalidades del Proyecto](#hammerfuncionalidades-del-proyecto)
 
 *[Tecnologias Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)
 
